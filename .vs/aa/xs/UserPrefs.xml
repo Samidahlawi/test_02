@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{4EA49835-EFE1-4ACF-82C0-46CBE1CD826B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="aa/Controllers/StudentsController.cs">
+    <Files>
+      <File FileName="aa/Controllers/StudentsController.cs" Line="47" Column="32" />
+      <File FileName="aa/Models/StudentModel.cs" Line="7" Column="23" />
+      <File FileName="aa/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="aa/Views/Students/Index.cshtml" Line="12" Column="6" NotebookId="1" />
+      <File FileName="aa/Views/Students/Details.cshtml" Line="6" Column="7" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="aa" expanded="True">
+            <Node name="aa" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="StudentsController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Students" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>n</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.aa PreferredExecutionTarget="/Volumes/Macintosh HD/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

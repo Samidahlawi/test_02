@@ -1,0 +1,12 @@
+﻿@{
+    @*StudentModel student = (StudentModel)ViewData["student"];*@
+    List<StudentModel> AllStudents = (List<StudentModel>)ViewData["Students"];
+}
+
+
+<ul>
+    @foreach (var student in AllStudents)
+    {
+        <li>@student.Id : @student.Name   </li>
+    }
+</ul>
